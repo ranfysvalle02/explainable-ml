@@ -277,7 +277,7 @@ Generative AI models, such as large language models, are capable of generating h
 
 Neural networks are a powerful class of models that can learn complex patterns in data. Non-linear activation functions, such as ReLU and tanh, enable these models to capture intricate relationships between inputs and outputs. However, this non-linearity can make it challenging to understand the model's decision-making process.
 
-### Self-Attention
+### [Self-Attention](https://github.com/ranfysvalle02/ai-self-attention/)
 
 **Self-attention** is a neural network mechanism that allows the model to weigh the importance of different parts of the input sequence. It's particularly useful in natural language processing (NLP) tasks, where understanding the context of words is crucial.
 
