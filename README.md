@@ -1,5 +1,7 @@
 # explainable-ml
 
+![](https://media.licdn.com/dms/image/D4E12AQEGw0lydToFfA/article-cover_image-shrink_720_1280/0/1700532135387?e=2147483647&v=beta&t=YXx8Th5BIg3R31g_m1hoZiMnJpTwVrK2TN_gm03hVoc)
+
 ---
 
 # Enhancing Machine Learning with Explainability
