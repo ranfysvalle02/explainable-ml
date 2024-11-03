@@ -250,6 +250,8 @@ This matrix represents:
 - **False Negatives (FN):** 0 instances were incorrectly predicted as negative when they were positive.
 - **True Positives (TP):** 5 instances were correctly predicted as positive.
 
+![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c42677529a0f4e97e4f96_644aea65cefe35380f198a5a_class_guide_cm08.png)
+
 ### Why the Confusion Matrix Matters
 
 The confusion matrix is invaluable for understanding more than just the overall accuracy of a model. It allows us to evaluate specific types of errors:
