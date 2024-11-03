@@ -252,8 +252,6 @@ The confusion matrix is invaluable for understanding more than just the overall 
 
 - **Precision** (how often the model is correct when it predicts a positive sentiment).
 - **Recall** (how well the model captures all actual positive instances).
-  
-These insights can guide further tuning or improvement of the model, helping ensure that it performs reliably in real-world applications. By interpreting each component of the confusion matrix, we can make more informed decisions about deploying and trusting the model’s predictions.
 
 ### Why Interpretability Matters
 
