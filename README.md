@@ -21,6 +21,8 @@ Businesses use sentiment analysis to understand customer feedback, public sentim
 
 ---
 
+![](https://developers.google.com/static/machine-learning/intro-to-ml/images/labeled_example.png)
+
 ## Step 1: Turning Text into Features
 
 For machine learning algorithms to work with text, we need to **convert words into numerical features**. There are a few common techniques to achieve this transformation, each with unique strengths.
@@ -34,7 +36,7 @@ For machine learning algorithms to work with text, we need to **convert words in
 
 Tokenization allows us to isolate each meaningful component of the text, preparing it for further processing.
 
-### Bag of Words (BoW): Simple Word Counts
+### [Bag of Words (BoW): Simple Word Counts](https://github.com/ranfysvalle02/just-a-bag-of-words)
 
 The **Bag of Words (BoW)** model is one of the simplest methods for text representation. It captures the presence (or frequency) of each word in a document without regard for word order or grammar.
 
