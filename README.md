@@ -85,9 +85,6 @@ N-grams can improve a model's understanding by capturing phrases that carry mean
 
 Once we extract tokens, assign weights, or create n-grams, we need to convert them into a numerical representation called **vectorization**. Vectorization represents each document as a **vector** of numbers, allowing machine learning algorithms to process and interpret the text.
 
-*In our example:*
-
-We use TF-IDF to extract 1,000 features from the dataset, considering both **unigrams** and **bigrams**. This process captures key terms and pairs of words, providing a richer representation of each review.
 
 ---
 
@@ -123,7 +120,7 @@ Classification Report:
     Positive       0.83      1.00      0.91         5
 ```
 
-The model achieved **90% accuracy**, indicating that it performs well in predicting the sentiment of movie reviews.
+In this example, the model achieved **90% accuracy**, indicating that it performs well in predicting the sentiment of movie reviews.
 
 ---
 
