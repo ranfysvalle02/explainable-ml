@@ -271,7 +271,7 @@ Several techniques can be used to make AI models more interpretable:
 
 ### Generative AI and Its Interpretability Challenges
 
-Generative AI models, such as large language models, are capable of generating human-quality text, but their complexity makes them difficult to interpret. While techniques like attention mechanisms can provide some insights into the model's decision-making process, a deeper understanding is often required.
+Generative AI models, such as large language models, are capable of generating human-quality text, but their complexity makes them difficult to interpret. While techniques like attention mechanisms can provide some insights into the model's decision-making process, they feel a bit like a "black box".
 
 ### The Role of Neural Networks and Non-Linearity
 
